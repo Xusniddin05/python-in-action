@@ -20,3 +20,5 @@ def funx(n=2, m=5):
     for i in res:
         if i > max_val: 
             max_val = i
+if __name__ == "__main__":
+     
